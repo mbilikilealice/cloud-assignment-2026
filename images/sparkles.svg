@@ -1,0 +1,6 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#FFD700"/>
+  <polygon points="150,50 160,100 210,100 170,140 180,190 150,150 120,190 130,140 90,100 140,100" fill="#FFA500"/>
+  <polygon points="150,70 157,105 195,105 165,135 175,170 150,140 125,170 135,135 105,105 143,105" fill="#FFD700"/>
+  <text x="150" y="240" font-size="24" fill="white" text-anchor="middle" font-weight="bold">SPARKLES</text>
+</svg>

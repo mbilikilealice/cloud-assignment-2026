@@ -1,0 +1,8 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#FFB6D9"/>
+  <circle cx="150" cy="80" r="30" fill="#FF1493"/>
+  <path d="M 150 110 Q 130 140 120 180 Q 150 190 180 180 Q 170 140 150 110" fill="#FF69B4"/>
+  <ellipse cx="135" cy="150" rx="8" ry="15" fill="#FFE4E1"/>
+  <ellipse cx="165" cy="150" rx="8" ry="15" fill="#FFE4E1"/>
+  <text x="150" y="260" font-size="24" fill="white" text-anchor="middle" font-weight="bold">FLOWER</text>
+</svg>
